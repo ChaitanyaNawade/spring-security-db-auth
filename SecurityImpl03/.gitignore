@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+#Intellij IDE
+.idea/
+*.iml
+
+#Sensitive - DB credentials
+src/main/resources/application.properties
